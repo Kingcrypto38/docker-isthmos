@@ -4,7 +4,7 @@ Click==7.0
 docker-py==1.10.6
 docker-pycreds==0.3.0
 Flask==1.0.2
-idna==2.7
+idna==3.7
 ItsDangerous==1.0.0
 Jinja2==2.10
 MarkupSafe==1.0
