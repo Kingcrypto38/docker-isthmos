@@ -8,7 +8,7 @@ idna==2.7
 ItsDangerous==1.0.0
 Jinja2==2.10
 MarkupSafe==1.0
-requests==2.20.0
+requests==2.32.0
 six==1.11.0
 urllib3==1.24
 websocket-client==0.53.0
